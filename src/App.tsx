@@ -9,7 +9,7 @@ function App() {
      
       <Portfolio />
       <footer className="text-center p-4 bg-gray-800 text-white">
-        <p>&copy; 2023 Atheer Thayir. All rights reserved.</p>
+        <p>&copy; 2022 Atheer Thayir. All rights reserved.</p>
       </footer>
      
     </>
