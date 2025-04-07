@@ -22,6 +22,7 @@ export default function Portfolio() {
           <li><strong>Database:</strong> SQL Server</li>
           <li><strong>Technologies:</strong> ADO.NET, RESTful APIs</li>
           <li><strong>Concepts:</strong> SOLID Principles, OOP</li>
+          <li><strong>Version Control:</strong> Git, GitHub</li>
           <li><strong>Currently Learning:</strong> React</li>
         </ul>
       </section>
